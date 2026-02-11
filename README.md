@@ -1,2 +1,3 @@
 # Global-Autogenic-Coding-Mechanism-From-Planetary-Energy-Fields-
 EXPERIMENTAL PROTOCOL (REPRODUCIBLE) 5.1 Materials Quartz reaction chamber (simulating Earth’s silica crust) External copper oscillatory coil (simulating core-driven EM oscillations) Ion mixture: Fe²⁺, Mg²⁺, Ca²⁺, PO₄³⁻, SO₄²⁻ (prebiotic analog set) pH-controlled aqueous environment (pH 6–9 range) Temperature control: 80–150°C... 
+DOI 10.5281/Zenodo.18577531
